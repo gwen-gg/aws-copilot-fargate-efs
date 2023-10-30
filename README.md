@@ -24,4 +24,5 @@ Then add the file to the filesystem
 
 ```bash
 cd /usr/share/nginx/html
-echo "Hello world" > index.html```
+echo "Hello world" > index.html
+```
